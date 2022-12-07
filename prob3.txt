@@ -1,0 +1,7 @@
+Ans No:-A) reverse-i-search is used to find past command. ctrl+r is used to active reverse-i-search and then type query to find matches.press ctrl+r to find next matches in history.
+
+Ans:-B) ls -a is used to list hidden files.
+
+Ans No:-C) I am very comfortable with linux based OS like ubuntu,centos..
+
+Ans No:-D) Yes, I have used servers to host web application. I have deployed my own django based web application on AWS EC2 instace using nginx web server. Url of this web application is http://13.127.167.97/  .
