@@ -1,6 +1,6 @@
 Ans No:-A) reverse-i-search is used to find past command. ctrl+r is used to active reverse-i-search and then type query to find matches.press ctrl+r to find next matches in history.
 
-Ans:-B) ls -a is used to list hidden files.
+Ans:-B) ls -a is used to list hidden directories.
 
 Ans No:-C) I am very comfortable with linux based OS like ubuntu,centos..
 
